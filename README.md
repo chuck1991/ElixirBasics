@@ -7,3 +7,5 @@ $iex
 
 2. To load scripts from elixir script(exs) file 
 $elixir name.exs
+
+https://elixir-lang.org/getting-started/introduction.html
